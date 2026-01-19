@@ -1,4 +1,4 @@
-## Check It Out [Here!](https://v0-company-comparison-tool-five.vercel.app/)
+# Check It Out [Here!](https://v0-company-comparison-tool-five.vercel.app/)
 
 # Company comparison tool
 
