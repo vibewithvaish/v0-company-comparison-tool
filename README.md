@@ -1,3 +1,5 @@
+## Check It Out [Here!](https://v0-company-comparison-tool-five.vercel.app/)
+
 # Company comparison tool
 
 *Automatically synced with your [v0.app](https://v0.app) deployments*
@@ -29,4 +31,4 @@ Continue building your app on:
 3. Changes are automatically pushed to this repository
 4. Vercel deploys the latest version from this repository
 
-## Check it out [here](https://v0-company-comparison-tool-five.vercel.app/)
+
