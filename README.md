@@ -29,4 +29,4 @@ Continue building your app on:
 3. Changes are automatically pushed to this repository
 4. Vercel deploys the latest version from this repository
 
-   ## Check out the Tool here: https://v0-company-comparison-tool-five.vercel.app/
+## Check it out [here](https://v0-company-comparison-tool-five.vercel.app/)
